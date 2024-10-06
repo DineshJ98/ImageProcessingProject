@@ -1,4 +1,4 @@
-Parking Lot Management System
+## Parking Lot Management System /n
 This project is a Parking Lot Management System developed in Python. It utilizes OpenCV, Pickle, NumPy, and CVZone libraries to monitor parking space occupancy in real-time.
 
 Table of Contents
