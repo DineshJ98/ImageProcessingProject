@@ -2,8 +2,8 @@
 This project is a Parking Lot Management System developed in Python. It utilizes OpenCV, Pickle, NumPy, and CVZone libraries to monitor parking space occupancy in real-time.
 
 # Table of Contents
--Introduction
--Features
+- Introduction
+- Features
 
 # Introduction
 The Parking Lot Management System captures a screenshot of the parking space and uses a tool called parkingSpacePicker to identify and store the locations of available parking spaces in a file. This file is then utilized to process video feeds, allowing the system to determine whether each space is occupied or available. The system employs adaptive thresholding and blurring techniques to enhance the accuracy of the detection results.
