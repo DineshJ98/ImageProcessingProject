@@ -12,7 +12,7 @@ The Parking Lot Management System captures a screenshot of the parking space and
 Real-time monitoring of parking spaces
 Manual selection of parking space locations for increased accuracy
 Color-coded representation:
--Green boxes for the nearest places to park
--Red boxes for occupied spaces
--Yellow boxes for available spaces
+- Green boxes for the nearest places to park
+- Red boxes for occupied spaces
+- Yellow boxes for available spaces
 Adaptive thresholding and blurring methods for improved detection
