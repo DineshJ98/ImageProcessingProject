@@ -15,4 +15,5 @@ Color-coded representation:
 - Green boxes for the nearest places to park
 - Red boxes for occupied spaces
 - Yellow boxes for available spaces
+
 Adaptive thresholding and blurring methods for improved detection
